@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="esh" format="2">
   <advance width="742"/>
+  <unicode hex="0283"/>
   <anchor x="518" y="1700" name="top"/>
   <anchor x="209" y="-447" name="bottom"/>
   <anchor x="723" y="1700" name="top0315"/>

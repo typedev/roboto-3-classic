@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexsubnosp" format="2">
+  <unicode hex="032D"/>
   <anchor x="-460" y="0" name="_bottom"/>
   <anchor x="-457" y="-383" name="bottom"/>
   <outline>

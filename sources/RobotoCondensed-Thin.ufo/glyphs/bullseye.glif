@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullseye" format="2">
   <advance width="1197"/>
+  <unicode hex="0298"/>
   <anchor x="600" y="1633" name="top"/>
   <anchor x="600" y="0" name="bottom"/>
   <anchor x="1178" y="1633" name="top0315"/>

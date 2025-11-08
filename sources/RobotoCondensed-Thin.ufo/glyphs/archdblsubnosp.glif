@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="archdblsubnosp" format="2">
+  <unicode hex="032B"/>
   <anchor x="-460" y="0" name="_bottom"/>
   <anchor x="-460" y="-257" name="bottom"/>
   <outline>

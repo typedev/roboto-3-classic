@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="epsilon1revhook" format="2">
   <advance width="1197"/>
+  <unicode hex="025D"/>
   <anchor x="508" y="1290" name="top"/>
   <anchor x="508" y="0" name="bottom"/>
   <anchor x="1178" y="1290" name="top0315"/>

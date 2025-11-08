@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcrosstail" format="2">
   <advance width="688"/>
+  <unicode hex="029D"/>
   <anchor x="437" y="1600" name="top"/>
   <anchor x="437" y="-447" name="bottom"/>
   <anchor x="669" y="1600" name="top0315"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mill" format="2">
   <advance width="1594"/>
+  <unicode hex="20A5"/>
   <outline>
     <contour>
       <point x="1105" y="1281" type="line"/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvsubnosp" format="2">
+  <unicode hex="032F"/>
   <anchor x="-456" y="0" name="_bottom"/>
   <anchor x="-456" y="-370" name="bottom"/>
   <outline>

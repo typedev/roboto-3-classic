@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Zbar" format="2">
   <advance width="1077"/>
+  <unicode hex="01B5"/>
   <anchor x="535" y="1611" name="top"/>
   <anchor x="562" y="10" name="bottom"/>
   <anchor x="1058" y="1611" name="top0315"/>

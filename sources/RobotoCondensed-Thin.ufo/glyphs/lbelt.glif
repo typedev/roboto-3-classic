@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lbelt" format="2">
   <advance width="722"/>
+  <unicode hex="026C"/>
   <anchor x="455" y="1592" name="top"/>
   <anchor x="455" y="0" name="bottom"/>
   <anchor x="703" y="1592" name="top0315"/>

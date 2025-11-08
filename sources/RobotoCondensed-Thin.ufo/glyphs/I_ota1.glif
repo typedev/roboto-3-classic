@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Iota1" format="2">
   <advance width="553"/>
+  <unicode hex="0196"/>
   <outline>
     <contour>
       <point x="218" y="1536" type="line"/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="linevertsubnosp" format="2">
+  <unicode hex="0329"/>
   <anchor x="-461" y="-489" name="bottom"/>
   <anchor x="-462" y="0" name="_bottom"/>
   <outline>

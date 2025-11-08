@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hook" format="2">
+  <unicode hex="0309"/>
   <anchor x="-469" y="1250" name="_top"/>
   <anchor x="-469" y="1656" name="top"/>
   <anchor x="-469" y="1656" name="mkmktop_acc"/>

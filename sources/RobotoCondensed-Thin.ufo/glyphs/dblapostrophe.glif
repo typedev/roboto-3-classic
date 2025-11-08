@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblapostrophe" format="2">
   <advance width="441"/>
+  <unicode hex="02EE"/>
   <outline>
     <contour>
       <point x="215" y="1560" type="line"/>

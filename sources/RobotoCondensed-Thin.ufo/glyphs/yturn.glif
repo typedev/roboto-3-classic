@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yturn" format="2">
   <advance width="866"/>
+  <unicode hex="028E"/>
   <anchor x="431" y="1600" name="top"/>
   <anchor x="431" y="0" name="bottom"/>
   <anchor x="848" y="1600" name="top0315"/>

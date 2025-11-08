@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="primetriplerev1" format="2">
   <advance width="752"/>
+  <unicode hex="2037"/>
   <outline>
     <contour>
       <point x="480" y="1552" type="line"/>

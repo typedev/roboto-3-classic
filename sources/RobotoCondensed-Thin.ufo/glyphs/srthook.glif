@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="srthook" format="2">
   <advance width="905"/>
+  <unicode hex="0282"/>
   <anchor x="455" y="1290" name="top"/>
   <anchor x="455" y="-447" name="bottom"/>
   <anchor x="886" y="1290" name="top0315"/>

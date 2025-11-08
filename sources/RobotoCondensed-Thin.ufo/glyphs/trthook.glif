@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="trthook" format="2">
   <advance width="608"/>
+  <unicode hex="0288"/>
   <anchor x="249" y="1600" name="top"/>
   <anchor x="358" y="-447" name="bottom"/>
   <anchor x="589" y="1600" name="top0315"/>

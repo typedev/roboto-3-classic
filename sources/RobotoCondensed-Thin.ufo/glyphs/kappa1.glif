@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kappa1" format="2">
   <advance width="1235"/>
+  <unicode hex="03F0"/>
   <outline>
     <contour>
       <point x="228" y="0" type="line"/>

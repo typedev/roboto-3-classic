@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="charactertie" format="2">
   <advance width="1243"/>
+  <unicode hex="2040"/>
   <outline>
     <contour>
       <point x="621" y="1434" type="curve" smooth="yes"/>

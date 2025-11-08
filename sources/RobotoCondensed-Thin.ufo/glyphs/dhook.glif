@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dhook" format="2">
   <advance width="995"/>
+  <unicode hex="0257"/>
   <anchor x="475" y="1600" name="top"/>
   <anchor x="526" y="0" name="bottom"/>
   <anchor x="1038" y="1600" name="top0315"/>

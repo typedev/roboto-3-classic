@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Trthook" format="2">
   <advance width="1076"/>
+  <unicode hex="01AE"/>
   <outline>
     <contour>
       <point x="1011" y="1456" type="line"/>

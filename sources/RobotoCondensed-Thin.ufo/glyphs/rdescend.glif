@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rdescend" format="2">
   <advance width="620"/>
+  <unicode hex="027C"/>
   <anchor x="400" y="1290" name="top"/>
   <anchor x="400" y="-447" name="bottom"/>
   <anchor x="601" y="1290" name="top0315"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nrthook" format="2">
   <advance width="1077"/>
+  <unicode hex="0273"/>
   <anchor x="505" y="1290" name="top"/>
   <anchor x="505" y="-447" name="bottom"/>
   <anchor x="1058" y="1290" name="top0315"/>

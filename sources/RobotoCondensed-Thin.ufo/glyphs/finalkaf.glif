@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="finalkaf" format="2">
   <advance width="1058"/>
+  <unicode hex="02AA"/>
   <anchor x="603" y="1600" name="top"/>
   <anchor x="603" y="0" name="bottom"/>
   <anchor x="1039" y="1600" name="top0315"/>

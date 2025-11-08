@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="plussub" format="2">
   <advance width="709"/>
+  <unicode hex="208A"/>
   <outline>
     <component base="plussuperior" yOffset="-981"/>
   </outline>

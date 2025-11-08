@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisnosp" format="2">
+  <unicode hex="0308"/>
   <anchor x="-464" y="1290" name="_top"/>
   <anchor x="-464" y="1539" name="top"/>
   <anchor x="-464" y="1424" name="parent_top"/>

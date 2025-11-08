@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevenosp" format="2">
+  <unicode hex="0306"/>
   <anchor x="-453" y="1194" name="_top"/>
   <anchor x="-453" y="1511" name="top"/>
   <anchor x="-460" y="1363" name="parent_top"/>

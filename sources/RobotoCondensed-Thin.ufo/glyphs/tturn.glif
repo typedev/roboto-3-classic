@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tturn" format="2">
   <advance width="589"/>
+  <unicode hex="0287"/>
   <anchor x="220" y="1600" name="top"/>
   <anchor x="343" y="0" name="bottom"/>
   <anchor x="570" y="1600" name="top0315"/>

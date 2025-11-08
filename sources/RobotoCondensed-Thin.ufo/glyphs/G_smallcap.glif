@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Gsmallcap" format="2">
   <advance width="1047"/>
+  <unicode hex="0262"/>
   <anchor x="535" y="1290" name="top"/>
   <anchor x="535" y="0" name="bottom"/>
   <anchor x="1028" y="1290" name="top0315"/>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="anglesupnosp" format="2">
+  <unicode hex="031A"/>
   <anchor x="-453" y="1263" name="_top"/>
   <anchor x="-453" y="1650" name="top"/>
   <anchor x="-453" y="1650" name="parent_top"/>

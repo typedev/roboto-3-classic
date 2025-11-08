@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tonefive" format="2">
   <advance width="990"/>
+  <unicode hex="01BC"/>
   <outline>
     <contour>
       <point x="281" y="1456" type="line" name="hr00"/>

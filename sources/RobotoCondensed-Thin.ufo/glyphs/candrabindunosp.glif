@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="candrabindunosp" format="2">
+  <unicode hex="0310"/>
   <anchor x="-460" y="1181" name="_top"/>
   <anchor x="-460" y="1697" name="top"/>
   <anchor x="-460" y="1422" name="parent_top"/>

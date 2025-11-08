@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="qhook" format="2">
   <advance width="996"/>
+  <unicode hex="02A0"/>
   <anchor x="530" y="1600" name="top"/>
   <anchor x="530" y="-447" name="bottom"/>
   <anchor x="1055" y="1600" name="top0315"/>

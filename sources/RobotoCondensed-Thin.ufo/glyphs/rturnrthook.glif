@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rturnrthook" format="2">
   <advance width="702"/>
+  <unicode hex="027B"/>
   <anchor x="233" y="1290" name="top"/>
   <anchor x="233" y="-447" name="bottom"/>
   <anchor x="684" y="1290" name="top0315"/>

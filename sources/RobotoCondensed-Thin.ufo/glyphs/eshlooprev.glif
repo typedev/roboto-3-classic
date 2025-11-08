@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eshlooprev" format="2">
   <advance width="848"/>
+  <unicode hex="01AA"/>
   <outline>
     <contour>
       <point x="562" y="1174" type="line" name="hr00"/>

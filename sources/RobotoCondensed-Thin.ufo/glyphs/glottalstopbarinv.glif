@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="glottalstopbarinv" format="2">
   <advance width="829"/>
+  <unicode hex="01BE"/>
   <outline>
     <contour>
       <point x="697" y="263" type="curve" smooth="yes"/>

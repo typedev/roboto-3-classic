@@ -1,0 +1,36 @@
+family Roboto
+
+axes
+    wght Thin:Regular:Black
+        Thin > -1
+        ExtraLight > -0.825
+        Light > -0.55
+        Regular > -0.1 @elidable
+        Medium > 0.35
+        SemiBold > 0.54
+        Bold > 0.73
+        ExtraBold > 0.9275
+        Black > 1.125
+    wdth 75:100:100
+        75 Condensed > 75
+        Normal > 100 @elidable
+    ital discrete
+        Upright @elidable
+        Italic
+
+sources [wght, wdth, ital]
+    Roboto-Thin [Thin, Normal, Upright]
+    Roboto-Regular [Regular, Normal, Upright] @base
+    Roboto-Black [Black, Normal, Upright]
+    Roboto-ThinItalic [Thin, Normal, Italic]
+    Roboto-Italic [Regular, Normal, Italic] @base
+    Roboto-BlackItalic [Black, Normal, Italic]
+    RobotoCondensed-Thin [Thin, Condensed, Upright]
+    RobotoCondensed-Light [Light, Condensed, Upright]
+    RobotoCondensed-Regular [Regular, Condensed, Upright]
+    RobotoCondensed-Bold [Bold, Condensed, Upright]
+    RobotoCondensed-LightItalic [Light, Condensed, Italic]
+    RobotoCondensed-Italic [Regular, Condensed, Italic]
+    RobotoCondensed-BoldItalic [Bold, Condensed, Italic]
+
+instances auto

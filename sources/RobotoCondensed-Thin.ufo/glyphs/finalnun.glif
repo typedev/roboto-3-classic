@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="finalnun" format="2">
   <advance width="1210"/>
+  <unicode hex="02AF"/>
   <anchor x="596" y="1290" name="top"/>
   <anchor x="596" y="-447" name="bottom"/>
   <anchor x="1191" y="1290" name="top0315"/>

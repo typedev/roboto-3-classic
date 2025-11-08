@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="epsilon1revclosed" format="2">
   <advance width="900"/>
+  <unicode hex="025E"/>
   <anchor x="470" y="1290" name="top"/>
   <anchor x="470" y="0" name="bottom"/>
   <anchor x="882" y="1290" name="top0315"/>

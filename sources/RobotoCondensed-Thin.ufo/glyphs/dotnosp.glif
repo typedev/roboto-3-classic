@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotnosp" format="2">
+  <unicode hex="0307"/>
   <anchor x="-460" y="1348" name="_top"/>
   <anchor x="-460" y="1547" name="top"/>
   <anchor x="-458" y="1423" name="parent_top"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kturn" format="2">
   <advance width="864"/>
+  <unicode hex="029E"/>
   <anchor x="429" y="1290" name="top"/>
   <anchor x="429" y="-447" name="bottom"/>
   <anchor x="845" y="1290" name="top0315"/>

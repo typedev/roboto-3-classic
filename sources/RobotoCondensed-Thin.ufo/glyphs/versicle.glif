@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="versicle" format="2">
   <advance width="1080"/>
+  <unicode hex="2123"/>
   <outline>
     <contour>
       <point x="876" y="1569" type="line"/>

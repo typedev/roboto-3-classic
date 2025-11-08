@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="philatin" format="2">
   <advance width="996"/>
+  <unicode hex="0278"/>
   <anchor x="499" y="1600" name="top"/>
   <anchor x="499" y="-447" name="bottom"/>
   <anchor x="977" y="1600" name="top0315"/>

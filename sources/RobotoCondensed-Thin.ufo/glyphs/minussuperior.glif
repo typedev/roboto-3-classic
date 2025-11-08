@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minussuperior" format="2">
   <advance width="625"/>
+  <unicode hex="207B"/>
   <outline>
     <contour>
       <point x="537" y="1074" type="line"/>

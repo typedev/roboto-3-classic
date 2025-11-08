@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sampi" format="2">
   <advance width="1289"/>
+  <unicode hex="03E0"/>
   <outline>
     <contour>
       <point x="139" y="885" type="line" name="hr00"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenrightsub" format="2">
   <advance width="456"/>
+  <unicode hex="208E"/>
   <outline>
     <contour>
       <point x="338" y="101" type="line"/>

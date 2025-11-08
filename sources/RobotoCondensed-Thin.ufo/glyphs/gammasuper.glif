@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gammasuper" format="2">
   <advance width="672"/>
+  <unicode hex="02E0"/>
   <outline>
     <contour>
       <point x="370" y="840" type="line"/>

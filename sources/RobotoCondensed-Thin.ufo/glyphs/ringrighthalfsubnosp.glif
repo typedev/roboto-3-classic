@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringrighthalfsubnosp" format="2">
+  <unicode hex="0339"/>
   <anchor x="-482" y="-388" name="bottom"/>
   <anchor x="-482" y="0" name="_bottom"/>
   <outline>

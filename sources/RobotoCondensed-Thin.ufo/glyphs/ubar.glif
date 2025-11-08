@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ubar" format="2">
   <advance width="1111"/>
+  <unicode hex="0289"/>
   <anchor x="531" y="1290" name="top"/>
   <anchor x="531" y="0" name="bottom"/>
   <anchor x="1092" y="1290" name="top0315"/>

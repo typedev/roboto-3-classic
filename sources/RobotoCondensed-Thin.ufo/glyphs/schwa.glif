@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="schwa" format="2">
   <advance width="916"/>
+  <unicode hex="0259"/>
   <anchor x="499" y="1291" name="top"/>
   <anchor x="499" y="5" name="bottom"/>
   <anchor x="797" y="654" name="rhotichook"/>

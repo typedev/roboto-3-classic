@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcurl" format="2">
   <advance width="1665"/>
+  <unicode hex="02A5"/>
   <anchor x="1179" y="1600" name="top"/>
   <anchor x="1179" y="-447" name="bottom"/>
   <anchor x="1646" y="1600" name="top0315"/>

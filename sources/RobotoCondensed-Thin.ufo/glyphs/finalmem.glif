@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="finalmem" format="2">
   <advance width="846"/>
+  <unicode hex="02AD"/>
   <anchor x="420" y="1600" name="top"/>
   <anchor x="420" y="0" name="bottom"/>
   <anchor x="827" y="1600" name="top0315"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tesh" format="2">
   <advance width="961"/>
+  <unicode hex="02A7"/>
   <anchor x="426" y="1700" name="top"/>
   <anchor x="426" y="-447" name="bottom"/>
   <anchor x="942" y="1700" name="top0315"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Vcursive" format="2">
   <advance width="1219"/>
+  <unicode hex="01B2"/>
   <outline>
     <contour>
       <point x="610" y="-22" type="curve" smooth="yes"/>

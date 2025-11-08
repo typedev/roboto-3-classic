@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rfishhookrev" format="2">
   <advance width="512"/>
+  <unicode hex="027F"/>
   <anchor x="322" y="1290" name="top"/>
   <anchor x="322" y="-447" name="bottom"/>
   <anchor x="493" y="1290" name="top0315"/>

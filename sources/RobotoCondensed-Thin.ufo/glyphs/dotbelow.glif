@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelow" format="2">
+  <unicode hex="0323"/>
   <anchor x="-574" y="0" name="_bottom"/>
   <anchor x="-574" y="-278" name="bottom"/>
   <outline>

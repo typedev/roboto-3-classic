@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="overscoredblnosp" format="2">
+  <unicode hex="033F"/>
   <anchor x="-467" y="1532" name="_top"/>
   <anchor x="-467" y="1930" name="top"/>
   <anchor x="-467" y="1930" name="parent_top"/>

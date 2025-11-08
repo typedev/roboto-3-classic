@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gbar" format="2">
   <advance width="993"/>
+  <unicode hex="01E5"/>
   <anchor x="500" y="1290" name="top"/>
   <anchor x="490" y="-446" name="bottom"/>
   <anchor x="527" y="-135" name="parenthesses.w3"/>

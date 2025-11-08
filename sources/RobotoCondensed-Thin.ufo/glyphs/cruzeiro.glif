@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cruzeiro" format="2">
   <advance width="1164"/>
+  <unicode hex="20A2"/>
   <outline>
     <contour>
       <point x="619" y="694" type="line"/>

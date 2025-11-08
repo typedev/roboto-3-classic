@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="servicemark" format="2">
   <advance width="1122"/>
+  <unicode hex="2120"/>
   <outline>
     <contour>
       <point x="783" y="995" type="line"/>

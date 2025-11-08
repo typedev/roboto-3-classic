@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="trianglebullet" format="2">
   <advance width="753"/>
+  <unicode hex="2023"/>
   <outline>
     <contour>
       <point x="139" y="999" type="curve"/>

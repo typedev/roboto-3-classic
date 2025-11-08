@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gcursive" format="2">
   <advance width="993"/>
+  <unicode hex="0261"/>
   <anchor x="500.0" y="1290.0" name="top"/>
   <anchor x="974.0" y="1290.0" name="top0315"/>
   <anchor x="500.0" y="-447.0" name="bottom"/>

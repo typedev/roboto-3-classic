@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="romantwelve" format="2">
   <advance width="1840"/>
+  <unicode hex="216B"/>
   <outline>
     <component base="X"/>
     <component base="I" xOffset="1001"/>

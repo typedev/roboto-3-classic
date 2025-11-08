@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ascript" format="2">
   <advance width="1022"/>
+  <unicode hex="0251"/>
   <anchor x="787" y="665" name="rhotichook"/>
   <anchor x="453" y="1290" name="top"/>
   <anchor x="453" y="0" name="bottom"/>

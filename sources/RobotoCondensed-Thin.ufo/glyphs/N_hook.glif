@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nhook" format="2">
   <advance width="1271"/>
+  <unicode hex="019D"/>
   <outline>
     <contour>
       <point x="190" y="1029" type="line"/>

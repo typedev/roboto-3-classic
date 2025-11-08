@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="squaresubnosp" format="2">
+  <unicode hex="033B"/>
   <anchor x="-460" y="0" name="_bottom"/>
   <anchor x="-461" y="-427" name="bottom"/>
   <outline>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="babygamma" format="2">
   <advance width="1039"/>
+  <unicode hex="0264"/>
   <anchor x="519" y="1290" name="top"/>
   <anchor x="519" y="0" name="bottom"/>
   <anchor x="1020" y="1290" name="top0315"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lambdabar" format="2">
   <advance width="989"/>
+  <unicode hex="019B"/>
   <anchor x="825" y="1613" name="top0315"/>
   <outline>
     <contour>

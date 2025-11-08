@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="shindagesh" format="2">
   <advance width="291"/>
+  <unicode hex="02E1"/>
   <outline>
     <contour>
       <point x="173" y="1805" type="line"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numeralgreeksub" format="2">
   <advance width="327"/>
+  <unicode hex="0375"/>
   <outline>
     <contour>
       <point x="241" y="-80" type="line"/>

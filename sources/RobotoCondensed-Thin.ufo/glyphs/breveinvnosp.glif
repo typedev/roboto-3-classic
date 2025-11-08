@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breveinvnosp" format="2">
+  <unicode hex="0311"/>
   <anchor x="-460" y="1179" name="_top"/>
   <anchor x="-460" y="1506" name="top"/>
   <anchor x="-460" y="1506" name="mkmktop_acc"/>

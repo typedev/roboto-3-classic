@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aturn" format="2">
   <advance width="958"/>
+  <unicode hex="0250"/>
   <anchor x="478" y="0" name="bottom"/>
   <anchor x="478" y="1290" name="top"/>
   <anchor x="776" y="638" name="rhotichook"/>

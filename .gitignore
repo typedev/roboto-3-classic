@@ -38,3 +38,6 @@ Temporary Items
 # Font binaries
 *.ttf
 *.otf
+sources/logs/
+sources/builds_tdk/
+/builds/

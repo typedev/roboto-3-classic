@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravesubnosp" format="2">
+  <unicode hex="0316"/>
   <anchor x="-476" y="-371" name="bottom"/>
   <anchor x="-476" y="0" name="_bottom"/>
   <outline>

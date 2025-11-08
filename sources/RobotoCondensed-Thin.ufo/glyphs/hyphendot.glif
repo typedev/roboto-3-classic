@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hyphendot" format="2">
   <advance width="305"/>
+  <unicode hex="2027"/>
   <outline>
     <contour>
       <point x="103" y="667" type="curve" smooth="yes"/>

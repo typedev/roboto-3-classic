@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ascriptturn" format="2">
   <advance width="1022"/>
+  <unicode hex="0252"/>
   <anchor x="887" y="654" name="rhotichook"/>
   <anchor x="498" y="1290" name="top"/>
   <anchor x="498" y="0" name="bottom"/>

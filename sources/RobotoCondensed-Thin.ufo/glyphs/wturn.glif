@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="wturn" format="2">
   <advance width="1344"/>
+  <unicode hex="028D"/>
   <anchor x="673" y="1290" name="top"/>
   <anchor x="673" y="0" name="bottom"/>
   <anchor x="1325" y="1290" name="top0315"/>
