@@ -1,0 +1,18 @@
+path: ../Roboto-mapped.designspace
+variable: true
+varprefix: "Var"
+static: true
+calcmetrics: true
+calcblues: true
+ttfautohint: "-n"
+dumpTTX: 'name, OS/2, head, STAT, fvar'
+fontbakery: false
+checkPSHints: true
+useHashPSHints: true
+checkglyphs: true
+checkToolsVersions : false
+
+fontinfo:
+  openTypeOS2Selection: 7
+  openTypeHeadLowestRecPPEM: 6
+  openTypeHeadFlags: 3
